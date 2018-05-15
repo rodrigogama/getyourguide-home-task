@@ -1,0 +1,29 @@
+{
+   "attractions":[
+    {
+      "title": "Eiffel Tower",
+      "imgSrc": "https://cdn.getyourguide.com/img/location_img-2600-482657002-87.jpg",
+      "url": "https://www.getyourguide.com/eiffel-tower-l2600/"
+    }, {
+      "title": "Louvre Museum",
+      "imgSrc": "https://cdn.getyourguide.com/img/location_img-3224-167783222-87.jpg",
+      "url": "https://www.getyourguide.com/louvre-museum-l3224/"
+    }, {
+      "title": "Empire State Building",
+      "imgSrc": "https://cdn.getyourguide.com/img/location_img-2608-3286715270-87.jpg",
+      "url": "https://www.getyourguide.com/empire-state-building-l2608/"
+    }, {
+      "title": "Machu Pichu",
+      "imgSrc": "https://cdn.getyourguide.com/img/location_img-1570-2696395330-87.jpg",
+      "url": "https://www.getyourguide.com/machu-picchu-l1570/"
+    }, {
+      "title": "Alcatraz",
+      "imgSrc": "https://cdn.getyourguide.com/img/location_img-535-4153659323-87.jpg",
+      "url": "https://www.getyourguide.com/alcatraz-l535/"
+    }, {
+      "title": "Tower of Pisa",
+      "imgSrc": "https://cdn.getyourguide.com/img/location_img-2975-3290552308-87.jpg",
+      "url": "https://www.getyourguide.com/tower-of-pisa-l2975/"
+    }
+  ]
+}
